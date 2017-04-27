@@ -1,0 +1,325 @@
+Epoch 1 of 50 took 847.165s
+learning rate 0.010000
+  training loss (in-iteration):		2.256606
+  train accuracy:		21.35 %
+  validation accuracy:		31.85 %
+Epoch 2 of 50 took 848.418s
+learning rate 0.010000
+  training loss (in-iteration):		1.768685
+  train accuracy:		33.06 %
+  validation accuracy:		40.94 %
+Epoch 3 of 50 took 848.983s
+learning rate 0.010000
+  training loss (in-iteration):		1.620425
+  train accuracy:		39.58 %
+  validation accuracy:		46.13 %
+Epoch 4 of 50 took 849.201s
+learning rate 0.010000
+  training loss (in-iteration):		1.511079
+  train accuracy:		43.82 %
+  validation accuracy:		46.58 %
+Epoch 5 of 50 took 849.176s
+learning rate 0.010000
+  training loss (in-iteration):		1.380187
+  train accuracy:		49.11 %
+  validation accuracy:		51.79 %
+Epoch 6 of 50 took 849.303s
+learning rate 0.010000
+  training loss (in-iteration):		1.259326
+  train accuracy:		53.83 %
+  validation accuracy:		57.43 %
+Epoch 7 of 50 took 849.378s
+learning rate 0.010000
+  training loss (in-iteration):		1.144699
+  train accuracy:		58.49 %
+  validation accuracy:		61.29 %
+Epoch 8 of 50 took 849.307s
+learning rate 0.010000
+  training loss (in-iteration):		1.036550
+  train accuracy:		62.83 %
+  validation accuracy:		64.23 %
+Epoch 9 of 50 took 849.338s
+learning rate 0.010000
+  training loss (in-iteration):		0.948179
+  train accuracy:		66.32 %
+  validation accuracy:		68.36 %
+Epoch 10 of 50 took 849.433s
+learning rate 0.010000
+  training loss (in-iteration):		0.868688
+  train accuracy:		69.59 %
+  validation accuracy:		70.23 %
+Epoch 11 of 50 took 849.500s
+learning rate 0.010000
+  training loss (in-iteration):		0.804293
+  train accuracy:		72.22 %
+  validation accuracy:		73.51 %
+Epoch 12 of 50 took 849.433s
+learning rate 0.010000
+  training loss (in-iteration):		0.742789
+  train accuracy:		74.67 %
+  validation accuracy:		74.98 %
+Epoch 13 of 50 took 849.618s
+learning rate 0.010000
+  training loss (in-iteration):		0.687951
+  train accuracy:		76.31 %
+  validation accuracy:		76.31 %
+Epoch 14 of 50 took 849.649s
+learning rate 0.010000
+  training loss (in-iteration):		0.637248
+  train accuracy:		78.31 %
+  validation accuracy:		78.29 %
+Epoch 15 of 50 took 849.509s
+learning rate 0.010000
+  training loss (in-iteration):		0.593187
+  train accuracy:		80.19 %
+  validation accuracy:		80.12 %
+Epoch 16 of 50 took 849.548s
+learning rate 0.001000
+  training loss (in-iteration):		0.554323
+  train accuracy:		81.53 %
+  validation accuracy:		81.06 %
+Epoch 17 of 50 took 849.891s
+learning rate 0.001000
+  training loss (in-iteration):		0.455224
+  train accuracy:		86.44 %
+  validation accuracy:		84.09 %
+Epoch 18 of 50 took 850.103s
+learning rate 0.001000
+  training loss (in-iteration):		0.428277
+  train accuracy:		87.30 %
+  validation accuracy:		84.46 %
+Epoch 19 of 50 took 850.227s
+learning rate 0.001000
+  training loss (in-iteration):		0.418278
+  train accuracy:		87.57 %
+  validation accuracy:		84.56 %
+Epoch 20 of 50 took 850.141s
+learning rate 0.001000
+  training loss (in-iteration):		0.412097
+  train accuracy:		87.98 %
+  validation accuracy:		84.74 %
+Epoch 21 of 50 took 850.066s
+learning rate 0.001000
+  training loss (in-iteration):		0.402144
+  train accuracy:		88.18 %
+  validation accuracy:		85.04 %
+Epoch 22 of 50 took 849.901s
+learning rate 0.001000
+  training loss (in-iteration):		0.396326
+  train accuracy:		88.47 %
+  validation accuracy:		85.04 %
+Epoch 23 of 50 took 849.916s
+learning rate 0.001000
+  training loss (in-iteration):		0.388617
+  train accuracy:		88.73 %
+  validation accuracy:		85.29 %
+Epoch 24 of 50 took 849.598s
+learning rate 0.001000
+  training loss (in-iteration):		0.382289
+  train accuracy:		88.96 %
+  validation accuracy:		85.02 %
+Epoch 25 of 50 took 849.868s
+learning rate 0.001000
+  training loss (in-iteration):		0.379253
+  train accuracy:		89.04 %
+  validation accuracy:		85.66 %
+Epoch 26 of 50 took 850.011s
+learning rate 0.001000
+  training loss (in-iteration):		0.374633
+  train accuracy:		89.33 %
+  validation accuracy:		85.51 %
+Epoch 27 of 50 took 849.970s
+learning rate 0.001000
+  training loss (in-iteration):		0.368370
+  train accuracy:		89.56 %
+  validation accuracy:		85.69 %
+Epoch 28 of 50 took 850.210s
+learning rate 0.001000
+  training loss (in-iteration):		0.360673
+  train accuracy:		89.63 %
+  validation accuracy:		85.58 %
+Epoch 29 of 50 took 850.155s
+learning rate 0.001000
+  training loss (in-iteration):		0.358049
+  train accuracy:		89.86 %
+  validation accuracy:		85.66 %
+Epoch 30 of 50 took 850.214s
+learning rate 0.001000
+  training loss (in-iteration):		0.352880
+  train accuracy:		90.10 %
+  validation accuracy:		85.81 %
+Epoch 31 of 50 took 850.294s
+learning rate 0.000500
+  training loss (in-iteration):		0.347436
+  train accuracy:		90.06 %
+  validation accuracy:		85.76 %
+Epoch 32 of 50 took 850.308s
+learning rate 0.000500
+  training loss (in-iteration):		0.331586
+  train accuracy:		90.79 %
+  validation accuracy:		86.01 %
+Epoch 33 of 50 took 850.286s
+learning rate 0.000500
+  training loss (in-iteration):		0.334309
+  train accuracy:		90.87 %
+  validation accuracy:		86.06 %
+Epoch 34 of 50 took 850.520s
+learning rate 0.000500
+  training loss (in-iteration):		0.329340
+  train accuracy:		90.88 %
+  validation accuracy:		86.25 %
+Epoch 35 of 50 took 850.436s
+learning rate 0.000500
+  training loss (in-iteration):		0.326569
+  train accuracy:		91.07 %
+  validation accuracy:		86.15 %
+Epoch 36 of 50 took 850.131s
+learning rate 0.000500
+  training loss (in-iteration):		0.327070
+  train accuracy:		91.12 %
+  validation accuracy:		86.16 %
+Epoch 37 of 50 took 850.176s
+learning rate 0.000500
+  training loss (in-iteration):		0.320074
+  train accuracy:		91.19 %
+  validation accuracy:		86.23 %
+Epoch 38 of 50 took 850.250s
+learning rate 0.000500
+  training loss (in-iteration):		0.319401
+  train accuracy:		91.33 %
+  validation accuracy:		86.26 %
+Epoch 39 of 50 took 850.481s
+learning rate 0.000500
+  training loss (in-iteration):		0.314270
+  train accuracy:		91.49 %
+  validation accuracy:		86.23 %
+Epoch 40 of 50 took 850.459s
+learning rate 0.000500
+  training loss (in-iteration):		0.311101
+  train accuracy:		91.56 %
+  validation accuracy:		86.51 %
+Epoch 41 of 50 took 850.258s
+learning rate 0.000500
+  training loss (in-iteration):		0.310851
+  train accuracy:		91.54 %
+  validation accuracy:		86.27 %
+Epoch 42 of 50 took 850.440s
+learning rate 0.000500
+  training loss (in-iteration):		0.311654
+  train accuracy:		91.79 %
+  validation accuracy:		86.49 %
+Epoch 43 of 50 took 850.387s
+learning rate 0.000500
+  training loss (in-iteration):		0.305516
+  train accuracy:		91.72 %
+  validation accuracy:		86.46 %
+Epoch 44 of 50 took 850.603s
+learning rate 0.000500
+  training loss (in-iteration):		0.304190
+  train accuracy:		91.73 %
+  validation accuracy:		86.45 %
+Epoch 45 of 50 took 850.498s
+learning rate 0.000500
+  training loss (in-iteration):		0.306095
+  train accuracy:		91.84 %
+  validation accuracy:		86.62 %
+Epoch 46 of 50 took 850.664s
+learning rate 0.000500
+  training loss (in-iteration):		0.301638
+  train accuracy:		92.11 %
+  validation accuracy:		86.85 %
+Epoch 47 of 50 took 850.629s
+learning rate 0.000500
+  training loss (in-iteration):		0.298060
+  train accuracy:		92.10 %
+  validation accuracy:		86.48 %
+Epoch 48 of 50 took 850.816s
+learning rate 0.000500
+  training loss (in-iteration):		0.295005
+  train accuracy:		92.29 %
+  validation accuracy:		86.49 %
+Epoch 49 of 50 took 850.695s
+learning rate 0.000500
+  training loss (in-iteration):		0.292292
+  train accuracy:		92.30 %
+  validation accuracy:		86.43 %
+Epoch 50 of 50 took 850.632s
+learning rate 0.000500
+  training loss (in-iteration):		0.288554
+  train accuracy:		92.37 %
+  validation accuracy:		86.51 %
+Epoch 1 of 30 took 850.405s
+learning rate 0.000100
+  training loss (in-iteration):		0.287346
+  train accuracy:		92.65 %
+  validation accuracy:		86.89 %
+Epoch 2 of 30 took 850.721s
+learning rate 0.000100
+  training loss (in-iteration):		0.279969
+  train accuracy:		92.81 %
+  validation accuracy:		87.07 %
+Epoch 3 of 30 took 850.558s
+learning rate 0.000100
+  training loss (in-iteration):		0.276734
+  train accuracy:		92.99 %
+  validation accuracy:		86.75 %
+Epoch 4 of 30 took 850.667s
+learning rate 0.000100
+  training loss (in-iteration):		0.277699
+  train accuracy:		92.86 %
+  validation accuracy:		86.99 %
+Epoch 5 of 30 took 850.667s
+learning rate 0.000100
+  training loss (in-iteration):		0.278460
+  train accuracy:		92.89 %
+  validation accuracy:		86.84 %
+Epoch 6 of 30 took 850.738s
+learning rate 0.000100
+  training loss (in-iteration):		0.274720
+  train accuracy:		92.95 %
+  validation accuracy:		86.83 %
+Epoch 7 of 30 took 850.691s
+learning rate 0.000100
+  training loss (in-iteration):		0.274089
+  train accuracy:		93.00 %
+  validation accuracy:		87.01 %
+Epoch 8 of 30 took 850.769s
+learning rate 0.000100
+  training loss (in-iteration):		0.276427
+  train accuracy:		92.90 %
+  validation accuracy:		86.95 %
+Epoch 9 of 30 took 850.556s
+learning rate 0.000100
+  training loss (in-iteration):		0.272950
+  train accuracy:		93.02 %
+  validation accuracy:		86.95 %
+Epoch 10 of 30 took 850.746s
+learning rate 0.000100
+  training loss (in-iteration):		0.270205
+  train accuracy:		93.07 %
+  validation accuracy:		86.98 %
+Epoch 11 of 30 took 850.570s
+learning rate 0.000100
+  training loss (in-iteration):		0.274104
+  train accuracy:		93.07 %
+  validation accuracy:		87.14 %
+Epoch 12 of 30 took 850.403s
+learning rate 0.000100
+  training loss (in-iteration):		0.272213
+  train accuracy:		93.02 %
+  validation accuracy:		86.97 %
+Epoch 13 of 30 took 850.095s
+learning rate 0.000100
+  training loss (in-iteration):		0.272029
+  train accuracy:		93.04 %
+  validation accuracy:		87.07 %
+Epoch 14 of 30 took 849.824s
+learning rate 0.000100
+  training loss (in-iteration):		0.269107
+  train accuracy:		93.02 %
+  validation accuracy:		86.97 %
+Epoch 15 of 30 took 862.731s
+learning rate 0.000100
+  training loss (in-iteration):		0.269112
+  train accuracy:		93.00 %
+  validation accuracy:		86.93 %
